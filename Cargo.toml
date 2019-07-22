@@ -15,7 +15,7 @@ build = "build.rs"
 xmas-elf = "0.7.0"
 x86_64 = "0.3.5"
 usize_conversions = "0.2.0"
-fixedvec = "0.2.3"
+fixedvec = "0.2.4"
 
 [dependencies.font8x8]
 version = "0.2.4"
